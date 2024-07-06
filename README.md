@@ -7,12 +7,7 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
-app.use(express.json());
 
-let users = [
-  { id: 1, name: 'John Doe' },
-  { id: 2, name: 'Jane Doe' }
-];
 
 const express = require('express');
 const app = express();
