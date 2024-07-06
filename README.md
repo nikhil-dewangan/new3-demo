@@ -15,10 +15,6 @@ const port = 3000;
 
 app.use(express.json());
 
-let users = [
-  { id: 1, name: 'John Doe' },
-  { id: 2, name: 'Jane Doe' }
-];
 
 app.get('/users', (req, res) => {
   res.json(users);
