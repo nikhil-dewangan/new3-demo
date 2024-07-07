@@ -28,3 +28,7 @@ app.get('/users/:id', (req, res) => {
   if (!user) return res.status(404).send('User not found');
   res.json(user);
 });
+
+
+The terms "Internet" and "network" are often used interchangeably, but they refer to ,
+different concepts in the realm of computing and telecommunications. Here are the key differences:
