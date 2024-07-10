@@ -7,9 +7,7 @@ A Git repository is a version-controlled project folder that tracks changes to f
 It enables collaboration and efficient project management by storing the history of modifications.
 
 
-const express = require('express');
-const app = express();
-const port = 3000;
+
 
 
 
