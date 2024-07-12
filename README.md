@@ -23,6 +23,27 @@ app.get('/users', (req, res) => {
 app.get('/users/:id', (req, res) => {
   const user = users.find(u => u.id === parseInt(req.params.id));
   if (!user) return res.status(404).send('User not found');
+
+   var ReactCurrentActQueue = {
+    current: null,
+    // Used to reproduce behavior of `batchedUpdates` in legacy mode.
+    isBatchingLegacy: false,
+    didScheduleLegacyUpdate: false
+  };
+
+  /**
+   * Keeps track of the current owner.
+   *
+   * The current owner is the component who should own any components that are
+   * currently being constructed.
+   */
+  var ReactCurrentOwner = {
+    /**
+     * @internal
+     * @type {ReactComponent}
+     */
+    current: null
+  };
   res.json(user);
 });
 
