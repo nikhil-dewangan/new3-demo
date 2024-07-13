@@ -16,7 +16,6 @@ const port = 3000;
 
 app.use(express.json());
 
-
 app.get('/users', (req, res) => {
   res.json(users);
 });
