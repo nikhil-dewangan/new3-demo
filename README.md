@@ -29,13 +29,7 @@ app.get('/users/:id', (req, res) => {
     isBatchingLegacy: false,
     didScheduleLegacyUpdate: false
   };
-  var ReactCurrentOwner = {
-    /**
-     * @internal
-     * @type {ReactComponent}
-     */
-    current: null
-  };
+  
   res.json(user);
 });
 
