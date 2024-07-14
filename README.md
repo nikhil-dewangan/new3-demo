@@ -29,13 +29,6 @@ app.get('/users/:id', (req, res) => {
     isBatchingLegacy: false,
     didScheduleLegacyUpdate: false
   };
-
-  /**
-   * Keeps track of the current owner.
-   *
-   * The current owner is the component who should own any components that are
-   * currently being constructed.
-   */
   var ReactCurrentOwner = {
     /**
      * @internal
