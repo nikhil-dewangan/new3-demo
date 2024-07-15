@@ -33,6 +33,9 @@ app.get('/users/:id', (req, res) => {
   res.json(user);
 });
 
-
 The terms "Internet" and "network" are often used interchangeably, but they refer to ,
 different concepts in the realm of computing and telecommunications. Here are the key differences:
+
+Using an Object Literal
+Using the new Keyword
+Using an Object Constructor.
