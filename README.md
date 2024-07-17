@@ -29,7 +29,7 @@ app.get('/users/:id', (req, res) => {
     isBatchingLegacy: false,
     didScheduleLegacyUpdate: false
   };
-  
+  let arr = [1,2,3,4,5];
   res.json(user);
 });
 
