@@ -14,6 +14,7 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
+return in function:
 function rocketToMars() {
   return 'BOOM!';
 }
