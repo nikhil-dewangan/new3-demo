@@ -13,6 +13,7 @@ If you serve React from a CDN, we recommend to keep the crossorigin attribute se
 const express = require('express');
 const app = express();
 const port = 3000;
+let = "red";
 
 return in function:
 function rocketToMars() {
