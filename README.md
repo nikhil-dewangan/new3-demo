@@ -28,6 +28,8 @@ in string we usi method chainning .
 
 we can define two types of object:
 
+git ls -Force
+
 
 app.get('/users/:id', (req, res) => {
   const user = users.find(u => u.id === parseInt(req.params.id));
