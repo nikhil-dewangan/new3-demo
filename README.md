@@ -30,6 +30,7 @@ in string we usi method chainning .
 we can define two types of object:
 
 git ls -Force
+`JSON.parse(): Parses a JSON string, constructing the JavaScript value or object described by the string.`
 
 
 app.get('/users/:id', (req, res) => {
