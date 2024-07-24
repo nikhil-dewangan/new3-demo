@@ -21,6 +21,7 @@ function rocketToMars() {
   return 'BOOM!';
 }
 
+git remote -v
 const rocketToMars = function() {
   return 'BOOM!';
 }
