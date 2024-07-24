@@ -22,6 +22,7 @@ function rocketToMars() {
 }
 
 git remote -v
+git remote add origin
 const rocketToMars = function() {
   return 'BOOM!';
 }
