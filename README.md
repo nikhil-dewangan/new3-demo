@@ -16,6 +16,10 @@ const port = 3000;
 let color = "red";
 let cmdlet = "-Force".
 
+console.log(event);
+console.log(event.key);
+console.log(event.code);
+
 let inp = document.querySelector("input");
 console.dir(inp);
 cosole.log("inp.value");
