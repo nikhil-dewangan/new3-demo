@@ -16,6 +16,11 @@ const port = 3000;
 let color = "red";
 let cmdlet = "-Force".
 
+let inp = document.querySelector("input");
+console.dir(inp);
+cosole.log("inp.value");
+});
+
 return in function:
 function rocketToMars() {
   return 'BOOM!';
