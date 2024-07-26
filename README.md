@@ -28,6 +28,7 @@ cosole.log("inp.value");
 return in function:
 function rocketToMars() {
   return 'BOOM!';
+  non primitive
 }
 
 git remote -v
