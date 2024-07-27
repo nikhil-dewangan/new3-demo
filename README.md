@@ -15,6 +15,8 @@ const app = express();
 const port = 3000;
 let color = "red";
 let cmdlet = "-Force".
+object literals
+construtor
 
 console.log(event);
 console.log(event.key);
