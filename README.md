@@ -18,6 +18,11 @@ let cmdlet = "-Force".
 object literals
 construtor
 
+"start": parcel index.html;
+"build": parcel build index.html;
+
+npm run start
+
 console.log(event);
 console.log(event.key);
 console.log(event.code);
