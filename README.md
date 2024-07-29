@@ -10,6 +10,8 @@ To load a specific version of react and react-dom, replace 18 with the version n
 
 If you serve React from a CDN, we recommend to keep the crossorigin attribute set:
 
+js function -call
+
 const express = require('express');
 const app = express();
 const port = 3000;
