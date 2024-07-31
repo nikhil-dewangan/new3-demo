@@ -12,6 +12,9 @@ If you serve React from a CDN, we recommend to keep the crossorigin attribute se
 
 js function -call
 ReactDOM.createRoot(document.getElementsById());
+ const hading = (
+ <h1> nikhil </h1>
+ )
 
 const express = require('express');
 const app = express();
