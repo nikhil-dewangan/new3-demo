@@ -16,6 +16,8 @@ ReactDOM.createRoot(document.getElementsById());
  <h1> nikhil </h1>
  )
 
+ we injected and jsx to otheers using () paranthesis.
+
 const express = require('express');
 const app = express();
 const port = 3000;
