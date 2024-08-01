@@ -16,6 +16,9 @@ ReactDOM.createRoot(document.getElementsById());
  <h1> nikhil </h1>
  )
 
+ jsx is es6 or ecma script this java script engine understand.
+ it is not pure javascript
+
  we injected and jsx to otheers using () paranthesis.
 
 const express = require('express');
