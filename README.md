@@ -10,6 +10,12 @@ To load a specific version of react and react-dom, replace 18 with the version n
 
 If you serve React from a CDN, we recommend to keep the crossorigin attribute set:
 
+in line css.
+
+const style = {
+     backgroundColor:"yellow",
+}
+
 js function -call
 ReactDOM.createRoot(document.getElementsById());
  const hading = (
