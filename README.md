@@ -20,6 +20,7 @@ js function -call
 ReactDOM.createRoot(document.getElementsById());
  const hading = (
  <h1> nikhil </h1>
+ <h3>{cuisins.props}</h3>
  )
 
  jsx is es6 or ecma script this java script engine understand.
