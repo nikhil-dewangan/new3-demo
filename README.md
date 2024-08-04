@@ -20,6 +20,11 @@ js function -call
 ReactDOM.createRoot(document.getElementsById());
  const hading = (
  <h1> nikhil </h1>
+ const restaurent = ()=>{
+      return (
+      
+      )
+ }
  <h3>{cuisins.props}</h3>
  )
 
