@@ -14,6 +14,7 @@ in line css.
 
 const style = {
      backgroundColor:"yellow",
+     <Restaurent res-name=""/>
 }
 
 js function -call
