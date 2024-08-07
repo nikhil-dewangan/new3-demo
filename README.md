@@ -28,7 +28,9 @@ ReactDOM.createRoot(document.getElementsById());
  }
  <h3>{cuisins.props}</h3>
  )
-
+why we need a key ?
+beacuse without id  and with id renders all cards. whenever you are doing map or any loop there is 
+an index . like 0,1,2,3,4 which is keeps on updating.
  jsx is es6 or ecma script this java script engine understand.
  it is not pure javascript
 
