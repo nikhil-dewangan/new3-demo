@@ -18,6 +18,7 @@ const style = {
 }
 
 js function -call
+
 ReactDOM.createRoot(document.getElementsById());
  const hading = (
  <h1> nikhil </h1>
