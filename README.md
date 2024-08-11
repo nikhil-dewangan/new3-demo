@@ -17,6 +17,7 @@ const style = {
      <Restaurent res-name="lucky-cafe"/>
 }
 
+onClick =()=>{console.log("button was clicked")}
 js function -call
 
 ReactDOM.createRoot(document.getElementsById());
