@@ -14,6 +14,7 @@ in line css.
 functionn() {
 anonymous function.
 }
+
 const style = {
      backgroundColor:"yellow",
      <Restaurent res-name="lucky-cafe"/>
