@@ -15,6 +15,8 @@ functionn() {
 anonymous function.
 }
 
+stack is one type of data structure.
+
 
 const style = {
      backgroundColor:"yellow",
