@@ -15,6 +15,8 @@ functionn() {
 anonymous function.
 }
 
+react fiber
+
 
 stack is one type of data structure.
 
