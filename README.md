@@ -11,6 +11,7 @@ To load a specific version of react and react-dom, replace 18 with the version n
 If you serve React from a CDN, we recommend to keep the crossorigin attribute set:
 react is choosen by the java developers, 
 every
+git add.
 changes in state and data within an application, and to
 update the user interface in a declarative and efficient
 manner.
