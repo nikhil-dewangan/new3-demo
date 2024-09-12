@@ -10,6 +10,10 @@ To load a specific version of react and react-dom, replace 18 with the version n
 
 If you serve React from a CDN, we recommend to keep the crossorigin attribute set:
 
+const JSXHead = () =>{
+ return <h1> Hello Git</h1>;
+ };
+ 
 react is choosen by the java developers, iamge optimization
 package and package-lock.json
 every
