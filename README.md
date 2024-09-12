@@ -13,6 +13,7 @@ If you serve React from a CDN, we recommend to keep the crossorigin attribute se
 const JSXHead = () =>{
  return <h1> Hello Git</h1>;
  };
+ HmR
  
 react is choosen by the java developers, iamge optimization
 package and package-lock.json
