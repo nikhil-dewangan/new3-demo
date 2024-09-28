@@ -11,6 +11,7 @@ If you serve React from a CDN, we recommend to keep the crossorigin attribute se
 execution:
 const JSXHead = () =>{
 hooks
+we print evrything (wimdow, document)
 
  return <h1> Hello Git</h1>;
  };
