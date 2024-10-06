@@ -23,6 +23,7 @@ we print evrything (wimdow, document)
  
 react is choosen by the java developers, iamge optimization
 package and package-lock.json
+
 every
 git add.
 changes in state and data within an application, and to
