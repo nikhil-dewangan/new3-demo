@@ -26,6 +26,7 @@ package and package-lock.json
 
 every
 git add.
+
 changes in state and data within an application, and to
 update the user interface in a declarative and efficient
 manner.
