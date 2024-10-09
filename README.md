@@ -20,9 +20,9 @@ project
 hooks
 we print evrything (wimdow, document)
 
- return <h1> Hello Git</h1>;
- lan, wan , man wlan};
- HmR
+return <h1> Hello Git</h1>;
+lan, wan , man wlan};
+HmR
  
 react is choosen by the java developers, iamge optimization
 package and package-lock.json
