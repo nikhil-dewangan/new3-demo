@@ -57,8 +57,8 @@ stack is one type of data structure.
 
 
 const style = {
-     backgroundColor:"yellow",
-     <Restaurent res-name="lucky-cafe"/>
+   backgroundColor:"yellow",
+   <Restaurent res-name="lucky-cafe"/>
 }
 
 onClick =()=>{console.log("button was clicked")}
