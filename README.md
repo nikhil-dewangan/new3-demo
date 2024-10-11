@@ -32,7 +32,7 @@ git add.
 
 changes in state and data within an application, and to
 update the user interface in a declarative and efficient
-manner.
+manner().
 
 for in loop for object
 
