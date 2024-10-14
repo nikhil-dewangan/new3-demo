@@ -49,7 +49,6 @@ react
 callstack()
 anonymous function.
 }
-
 react fiber
 
 
