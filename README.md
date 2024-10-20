@@ -44,7 +44,7 @@ async
 
 in line css.
 functionn() {
-react 
+react() 
 
 callstack()
 anonymous function.
