@@ -12,7 +12,7 @@ If you serve React from a CDN, we recommend to keep the crossorigin attribute se
 Network layer
 Transmission layer
 
-
+string has lot of method()
 execution:
 const JSXHead = () =>{
 
