@@ -7,7 +7,7 @@ A Git repository is a version-controlled project folder that tracks changes to f
 It enables collaboration and efficient project management by storing the history of modifications.
 
 To load a specific version of react and react-dom, replace 18 with the version number,
-If you serve React from a CDN, we recommend to keep the crossorigin attribute set:
+If you serve React from a CDN, we recommend to keep the crossorigin attribute set:-
 
 git origin main
 Network layer
