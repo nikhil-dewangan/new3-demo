@@ -18,7 +18,7 @@ execution:
 const JSXHead = () =>{
 
 project
-hooks concepts
+hooks concepts()
 we print evrything (wimdow, document)
 
 return <h1> Hello Git</h1>;
