@@ -14,7 +14,7 @@ Network layer
 Transmission layer
 document.getElementById("root");
 ⚠️⚠️⚠️
-unary operator
+unary operator: two type operator->
 
 string has lot of method()
 execution:
