@@ -13,7 +13,7 @@ git origin main
 Network layer
 Transmission layer
 document.getElementById("root");
-⚠️⚠️⚠️
+js call stack
 unary operator: two type operator->
 
 string has lot of method()
