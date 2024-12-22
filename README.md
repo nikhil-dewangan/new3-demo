@@ -20,8 +20,8 @@ unary operator: two type operator->
 
 string has lot of method()
 execution:
-const JSXHead = () =>{
 
+const JSXHead = () =>{
 project
 hooks concepts()
 we print evrything (wimdow, document)
