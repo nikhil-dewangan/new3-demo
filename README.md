@@ -23,6 +23,7 @@ execution:
 
 const JSXHead = () =>{
 project
+
 hooks concepts()
 we print evrything (wimdow, document)
 
