@@ -33,7 +33,7 @@ lan, wan, man wlan;
 react is choosen by the java developers, iamge optimization
 package and package-lock.json
 
-every
+every,reduce,filter,map
 git add.
 
 changes in state and data within an application, and to
