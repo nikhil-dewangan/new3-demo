@@ -18,7 +18,7 @@ document.getElementById("root");
 # JS call stack 
 unary operator: two type operator->
 
-string has lot of method()
+# string has lot of method()
 execution:
 
 const JSXHead = () =>{
