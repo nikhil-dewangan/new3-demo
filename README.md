@@ -19,7 +19,7 @@ document.getElementById("root");
 unary operator: two type operator->
 
 # string has lot of method()
-execution: Domainknowledge
+execution: Domainknowledge, Programmer
 
 const JSXHead = () =>{
 project
