@@ -22,10 +22,10 @@ const month = "jan"
 
 swtich(month){
     case "jan":
-     log("janurary");
+        log("janurary");
     break;
     default:
-    log("month is not match");
+        log("month is not match");
     break;
 }
 
