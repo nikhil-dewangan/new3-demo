@@ -18,6 +18,18 @@ document.getElementById("root");
 # JS call stack 
 unary operator: two type operator->
 
+const month = "jan"
+
+swtich(month){
+    case "jan":
+     log("janurary");
+    break;
+    default:
+    log("month is not match");
+    break;
+}
+
+
 # string has lot of method()
 execution: Domainknowledge, Programmer
 
