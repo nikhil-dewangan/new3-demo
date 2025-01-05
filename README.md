@@ -29,6 +29,9 @@ swtich(month){
     break;
 }
 
+const mySym = Symbol(key1);
+
+
 
 # string has lot of method()
 execution: Domainknowledge, Programmer
