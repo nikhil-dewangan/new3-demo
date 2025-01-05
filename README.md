@@ -31,6 +31,10 @@ swtich(month){
 
 const mySym = Symbol(key1);
 
+const jUser = {
+[mySym] = "mykey1";
+}
+
 
 
 # string has lot of method()
