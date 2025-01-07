@@ -29,6 +29,7 @@ swtich(month){
     break;
 }
 
+console.log(Object.value(jUser));
 const mySym = Symbol(key1);
 
 const jUser = {
