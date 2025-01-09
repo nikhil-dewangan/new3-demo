@@ -38,7 +38,7 @@ const jUser = {
 }
 
 const {price} = course
-
+console.log(price);
 
 
 # string has lot of method()
