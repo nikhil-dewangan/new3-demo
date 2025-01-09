@@ -37,6 +37,8 @@ const jUser = {
 [mySym] = "mykey1";
 }
 
+const {price} = course
+
 
 
 # string has lot of method()
