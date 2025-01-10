@@ -24,7 +24,7 @@ swtich(month){
     case "jan":
         console.log("janurary");
     break;
-        default:
+    default:
         console.log("month is not match");
     break;
 }
