@@ -29,6 +29,8 @@ swtich(month){
     break;
 }
 
+It save data in the form of table.
+
 console.log(Object.value(jUser));
 
 const mySym = Symbol(key1);
