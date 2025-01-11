@@ -30,6 +30,7 @@ swtich(month){
 }
 
 It save data in the form of table.
+non-relational database.
 
 console.log(Object.value(jUser));
 
