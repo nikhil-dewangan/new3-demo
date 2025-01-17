@@ -36,7 +36,7 @@ console.log(Object.value(jUser));
 const mySym = Symbol(key1);
 
 const jUser = {
-[mySym] = "mykey1";
+ [mySym] = "mykey1";
 }
 
 const {price} = course
