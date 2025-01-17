@@ -23,7 +23,7 @@ const month = "jan"
 swtich(month){
     case "jan":
         console.log("janurary");
-    break;   
+    break;  
     default:
         console.log("month is not match");
     break;
