@@ -27,7 +27,9 @@ swtich(month){
     default:
         console.log("month is not match");
     break;
-}
+}  
+
+npm install react 
 
 > It save data in the form of table.
 > non-relational database.
