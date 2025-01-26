@@ -29,6 +29,7 @@ swtich(month){
     break;
 }  
 
+
 ( npm install react )
 
 > It save data in the form of table.
