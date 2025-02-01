@@ -13,7 +13,7 @@ If you serve React from a CDN, we recommend to keep the crossorigin attribute se
 Network layer
  
 # Transmission layer
-document.getElementById("root");
+document.getElementById("root");  
 
 # JS call stack 
 unary operator: two type operator->
