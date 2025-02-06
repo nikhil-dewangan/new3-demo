@@ -18,7 +18,7 @@ document.getElementById("root");
 # JS call stack   
 unary operator: two type operator->
 
-const month = "jan"
+const month = "jan";
 
 swtich(month){
     case "jan":
