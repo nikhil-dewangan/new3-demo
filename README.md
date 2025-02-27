@@ -10,7 +10,7 @@ It enables collaboration and efficient project management by storing the history
 If you serve React from a CDN, we recommend to keep the crossorigin attribute set:-      
         
 # git origin main            
-Network layer.            
+Network layer.              
          
 # Transmission layer            
 document.getElementById("root");          
