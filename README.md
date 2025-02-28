@@ -12,7 +12,7 @@ If you serve React from a CDN, we recommend to keep the crossorigin attribute se
 # git origin main            
 Network layer.              
          
-# Transmission layer            
+# Transmission layer              
 document.getElementById("root");          
  
 # JS call stack   
