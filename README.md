@@ -13,7 +13,7 @@ If you serve React from a CDN, we recommend to keep the crossorigin attribute se
 Network layer.                     
 addEventListener('click', function(e){           
 
-})        
+})          
             {object distructuring.}    
 # Transmission layer              
 document.getElementById("root");            
