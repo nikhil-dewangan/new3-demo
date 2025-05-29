@@ -9,7 +9,7 @@ It enables collaboration and efficient project management by storing the history
 # To load a specific version of react and react-dom, replace 18 with the version number,                  
 If you serve React from a CDN, we recommend to keep the crossorigin attribute set:-                           
 ( inner HTML ) event                                                      
-# git origin main                                                    
+# git origin main                                                       
 Network layer.                                                       
 addEventListener('click', function(e){                                    
                 
