@@ -15,7 +15,7 @@ addEventListener('click', function(e){
                        
 })                            
             {object distructuring.}        
-# Transmission layer              
+# Transmission layer                 
 document.getElementById("root");            
  
 # JS call stack   
