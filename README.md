@@ -14,7 +14,7 @@ Network layer.
 addEventListener('click', function(e){                                                      
                            
 })                            
-            {object distructuring.}        
+            {object distructuring.}           
 # Transmission layer                 
 document.getElementById("root");            
  
