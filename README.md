@@ -4,7 +4,7 @@ This is demo for Git &amp; GitHub Class for new3-demo repository.
 #Git & GitHub
 
 # A Git repository is a version-controlled project folder that tracks changes to files over time.   
-It enables collaboration and efficient project management by storing the history of modifications.                
+It enables collaboration and efficient project management by storing the history of modifications.                  
                                      
 # To load a specific version of react and react-dom, replace 18 with the version number,                                             
 If you serve React from a CDN, we recommend to keep the crossorigin attribute set:-                                                                              
