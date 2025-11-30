@@ -10,9 +10,8 @@ If you serve React from a CDN, we recommend to keep the crossorigin attribute se
 ( inner HTML ) event                                                                                                                                                                                                                                                                                
 # git origin main                                                                                                                                                                                                                                                                                    
 Network layer.                                                                                                                                                                                     
-addEventListener('click', function(e){                                                                                                                                                                                           
-})                                                   
-            {object distructuring.}                         
+addEventListener('click', function(e){                                                                                                                                                                                          
+}){object distructuring.}                         
 # Transmission layer                 
 document.getElementById("root");            
  
