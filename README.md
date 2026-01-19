@@ -9,7 +9,7 @@ It enables collaboration and efficient project management by storing the history
 If you serve React from a CDN, we recommend to keep the crossorigin attribute set:-                                                                                                                                                                                                                                                                                                                              
 ( inner HTML ) event                                                                                                                                                                                  
 # git origin main                                                                                                                                                                                                   
-Network layer.                                                                                                                                                            
+Network layer.                                                                                                                                                                
 addEventListener('click', function(e) {                                                                                                                                                                                                                                                                  
 }){object distructuring.}                            
 # Transmission layer                 
